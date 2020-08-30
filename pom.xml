@@ -32,7 +32,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<standaloneDeployment>
-                 <muleHome>D:\mule-server2</muleHome>
+                 <muleHome>D:\mule-server1</muleHome>
                  <muleVersion>${app.runtime}</muleVersion>
                 </standaloneDeployment>
 				</configuration>
